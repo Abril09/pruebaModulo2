@@ -27,4 +27,4 @@
     ~~~
     CREATE TABLE empleado (IdEmpleado Integer NOT NULL,nombre varchar(100),apellido varchar(100),direccion varchar(100) ,telefono Integer ,idDepartamento Integer);
     ~~~
-3. ejericio en archivo     
+3. ejericio en archivos cineModel.pdf,Dml.sql y ejercicio3DDL.sql.     
